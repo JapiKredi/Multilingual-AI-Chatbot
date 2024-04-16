@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="multilingual assistant",
+    name="Multilingual Assistant Chatbot",
     version="0.0.1",
     author="Jasper Bongers",
     author_email="jasper.bongers@yahoo.com",
